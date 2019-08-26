@@ -5,5 +5,5 @@ permalink: /about/
 ---
 
 
-I love reliability engineering especially in the area of automation and observability. You can always find me pushing rust or golang PR. 
+I specialized in reliability engineering with a focus on resilient architecture, automation and observability. You may also find me tinkering with things in golang, python or rust.
 
